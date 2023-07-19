@@ -1,4 +1,4 @@
-- Hi, I run hpc systems for computational biologists and chemists
+- Hi, I run HPC systems for computational biologists and chemists
 I write small scripts that do dull stuff like monitor machines for patching, track license use and submitting compute jobs to cluster queues.
 
 - 🌱 I’m currently learning more Python some Rust and how to compute with gpus
